@@ -20,6 +20,8 @@ var snakeBody = [];
 
 var gameOver = false;
 
+var remake = false;
+
 window.onload = function(){
     board = document.getElementById("board");
     board.height = rows * blockSize;

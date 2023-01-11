@@ -13,6 +13,9 @@ body{
 }
 
 .btn{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     align-items: center;
     margin-top: 50vh;
     background-color: rgb(238, 255, 0);
